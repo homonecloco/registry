@@ -1,10 +1,4 @@
-{
-	"biojs-io-newick": {
-		npm: "ooo",
-		shield: {
-			testing: "jenkins.url",
-			build: "oo.aa",
-		},
-		tags: ["client", "sequence", "recommended"],
-	}
-}
+{   'biojs-io-newick': {   'shields': {   'build': 'oo.aa',
+                                          'testing': 'jenkins.url'},
+                           'tags': ['client', 'sequence', 'recommended']},
+    'cron_time': 3600}
