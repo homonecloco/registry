@@ -1,0 +1,10 @@
+{
+	"biojs-io-newick": {
+		npm: "ooo",
+		shield: {
+			testing: "jenkins.url",
+			build: "oo.aa",
+		},
+		tags: ["client", "sequence", "recommended"],
+	}
+}
