@@ -1,4 +1,0 @@
-{   'biojs-io-newick': {   'shields': {   'build': 'oo.aa',
-                                          'testing': 'jenkins.url'},
-                           'tags': ['client', 'sequence', 'recommended']},
-    'cron_time': 3600}
