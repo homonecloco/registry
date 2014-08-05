@@ -17,3 +17,12 @@ tags = ["client2", "sequence2", "fasta", "recommended"]
 
 testing = "fasta.url"
 build = "oo.afastaa"
+
+[biojs-io-newick]
+
+tags = ["client2", "sequence2", "fasta", "recommended"]
+
+[biojs-io-newick.shields]
+
+testing = "fasta.url"
+build = "oo.afastaa"
