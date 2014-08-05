@@ -13,20 +13,20 @@
 tags = ["client", "sequence", "recommended"]
   
   [[biojs-io-clustal.shields]]
-  type = "tests"
-  img = "url1"
-  href = "url2"
+  type = "build"
+  img  = "http://img.shields.io/badge/build-failing-red.svg"
+  href = "#"
 
 [biojs-io-fasta]
 
 tags = ["client", "sequence", "fasta", "recommended"]
 
   [[biojs-io-fasta.shields]]
-  type = "tests"
-  img = "url3"
-  href = "url4"
+  type = "build"
+  img  = "http://img.shields.io/badge/build-passing-brightgreen.svg"
+  href = "#"
   
   [[biojs-io-fasta.shields]]
-  type = "docs"
-  img = "url5"
-  href = "url6"
+  type = "tests"
+  img = "http://img.shields.io/badge/coverage-75%-yellow.svg"
+  href = "#"
