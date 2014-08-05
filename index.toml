@@ -1,0 +1,19 @@
+# BioJS registry 
+
+[biojs-io-clustal]
+
+tags = ["client", "sequence", "recommended"]
+
+[biojs-io-clustal.shields]
+
+testing = "jenkins.url"
+build = "oo.aa"
+
+[biojs-io-fasta]
+
+tags = ["client2", "sequence2", "recommended"]
+
+[biojs-io-fasta.shields]
+
+testing = "fasta.url"
+build = "oo.afastaa"
