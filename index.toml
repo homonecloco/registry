@@ -1,5 +1,13 @@
 # BioJS registry 
 
+# CONTRIBUTING:
+#   add your component to this file and make a pull-request. This'll add your component to the repo
+#
+#   it's written in TOML, which is basically ini files plus tags. Just copy
+#   another component in this file and modify the tags/URLs etc to match your component
+#   
+#   Thanks for contributing! :) remember to tweet us and we'll let the world know
+
 [biojs-io-clustal]
 
 tags = ["client", "sequence", "recommended"]
