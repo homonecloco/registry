@@ -11,7 +11,7 @@ build = "oo.aa"
 
 [biojs-io-fasta]
 
-tags = ["client2", "sequence2", "recommended"]
+tags = ["client2", "sequence2", "fasta", "recommended"]
 
 [biojs-io-fasta.shields]
 
