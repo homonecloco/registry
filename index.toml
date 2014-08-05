@@ -11,17 +11,22 @@
 [biojs-io-clustal]
 
 tags = ["client", "sequence", "recommended"]
-
-[biojs-io-clustal.shields]
-
-testing = "jenkins.url"
-build = "oo.aa"
+  
+  [[biojs-io-clustal.shields]]
+  type = "tests"
+  img = "url1"
+  href = "url2"
 
 [biojs-io-fasta]
 
 tags = ["client", "sequence", "fasta", "recommended"]
 
-[biojs-io-fasta.shields]
-
-testing = "fasta.url"
-build = "oo.afastaa"
+  [[biojs-io-fasta.shields]]
+  type = "tests"
+  img = "url3"
+  href = "url4"
+  
+  [[biojs-io-fasta.shields]]
+  type = "docs"
+  img = "url5"
+  href = "url6"
