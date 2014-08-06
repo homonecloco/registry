@@ -30,3 +30,8 @@ tags = ["client", "sequence", "fasta", "recommended"]
   type = "tests"
   img = "http://img.shields.io/badge/coverage-75%-yellow.svg"
   href = "#"
+
+  [[biojs-io-fasta.shields]]
+  type = "doc"
+  img = "http://img.shields.io/scrutinizer/g/filp/whoops.svg"
+  href = "#"
