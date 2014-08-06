@@ -35,3 +35,17 @@ tags = ["client", "sequence", "fasta", "recommended"]
   type = "doc"
   img = "http://img.shields.io/scrutinizer/g/filp/whoops.svg"
   href = "#"
+  
+  [biojs-rest-psicquic]
+
+  tags = ["client", "psicquic", "protein interaction"]
+
+  [[biojs-rest-psicquic.shields]]
+  type = "build"
+  img  = "http://img.shields.io/badge/build-passing-brightgreen.svg"
+  href = "#"
+  
+  [[biojs-rest-psicquic.shields]]
+  type = "tests"
+  img = "http://img.shields.io/badge/coverage-75%-yellow.svg"
+  href = "#"
