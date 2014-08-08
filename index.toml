@@ -36,9 +36,17 @@ tags = ["client", "sequence", "fasta", "recommended"]
   img = "http://img.shields.io/scrutinizer/g/filp/whoops.svg"
   href = "#"
   
-  [biojs-rest-psicquic]
+[biojs-io-newick]
 
-  tags = ["client", "psicquic", "protein interaction"]
+tags = ["client","newick","io","parser"]
+
+[biojs-rest-ensembl]
+
+tags = ["ensembl","rest"]
+  
+[biojs-rest-psicquic]
+
+tags = ["client", "psicquic", "protein interaction"]
 
   [[biojs-rest-psicquic.shields]]
   type = "build"
