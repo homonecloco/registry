@@ -75,3 +75,11 @@ tags = ["legacy"]
 [biojs-events]
 
 tags = ["events"]
+
+[biojs-model]
+
+tags = ["models", "data", "objects"]
+
+[biojs-vis-sequence]
+
+tags = ["client", "sequence"]
