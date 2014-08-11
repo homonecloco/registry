@@ -64,5 +64,5 @@ tags = ["client", "sequence", "msa", "recommended"]
   
   [[biojs-vis-msa.shields]]
   type = "build"
-  img  = "https://drone.io/github.com/biojs/biojs-vis-msa/status.png"
-  href = "https://drone.io/github.com/biojs/biojs-vis-msa/latest"
+  img  = "https://drone.io/github.com/greenify/biojs-vis-msa/status.png"
+  href = "https://drone.io/github.com/greenify/biojs-vis-msa/latest"
