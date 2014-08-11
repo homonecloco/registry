@@ -32,7 +32,7 @@ tags = ["client", "sequence", "fasta", "recommended"]
   href = "https://codeclimate.com/github/greenify/biojs-vis-msa"
 
   [[biojs-io-fasta.shields]]
-  type = "doc"
+  type = "jsdocs"
   img = "http://img.shields.io/scrutinizer/g/filp/whoops.svg"
   href = "#"
   
