@@ -28,8 +28,8 @@ tags = ["client", "sequence", "fasta", "recommended"]
   
   [[biojs-io-fasta.shields]]
   type = "tests"
-  img = "http://img.shields.io/badge/coverage-75%-yellow.svg"
-  href = "#"
+  img = "https://codeclimate.com/github/greenify/biojs-vis-msa/badges/gpa.svg"
+  href = "https://codeclimate.com/github/greenify/biojs-vis-msa"
 
   [[biojs-io-fasta.shields]]
   type = "doc"
