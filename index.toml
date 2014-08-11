@@ -66,3 +66,12 @@ tags = ["client", "sequence", "msa", "recommended"]
   type = "build"
   img  = "https://drone.io/github.com/greenify/biojs-vis-msa/status.png"
   href = "https://drone.io/github.com/greenify/biojs-vis-msa/latest"
+
+
+[biojs-legacy]
+
+tags = ["legacy"]
+
+[biojs-events]
+
+tags = ["events"]
