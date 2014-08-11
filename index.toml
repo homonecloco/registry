@@ -30,11 +30,6 @@ tags = ["client", "sequence", "fasta", "recommended"]
   type = "tests"
   img = "https://codeclimate.com/github/greenify/biojs-vis-msa/badges/gpa.svg"
   href = "https://codeclimate.com/github/greenify/biojs-vis-msa"
-
-  [[biojs-io-fasta.shields]]
-  type = "jsdocs"
-  img = "http://img.shields.io/scrutinizer/g/filp/whoops.svg"
-  href = "#"
   
 [biojs-io-newick]
 
