@@ -57,3 +57,12 @@ tags = ["client", "psicquic", "protein interaction"]
   type = "tests"
   img = "http://img.shields.io/badge/coverage-75%-yellow.svg"
   href = "#"
+
+[biojs-vis-msa]
+
+tags = ["client", "sequence", "msa", "recommended"]
+  
+  [[biojs-vis-msa.shields]]
+  type = "build"
+  img  = "https://drone.io/github.com/biojs/biojs-vis-msa/status.png"
+  href = "https://drone.io/github.com/biojs/biojs-vis-msa/latest"
