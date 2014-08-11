@@ -50,13 +50,13 @@ tags = ["client", "psicquic", "protein interaction"]
 
   [[biojs-rest-psicquic.shields]]
   type = "build"
-  img  = "http://img.shields.io/badge/build-passing-brightgreen.svg"
-  href = "#"
+  img  = "https://travis-ci.org/jmVillaveces/biojs-rest-psicquic.svg?branch=master"
+  href = "https://travis-ci.org/jmVillaveces/biojs-rest-psicquic"
   
   [[biojs-rest-psicquic.shields]]
   type = "tests"
-  img = "http://img.shields.io/badge/coverage-75%-yellow.svg"
-  href = "#"
+  img = "https://travis-ci.org/jmVillaveces/biojs-rest-psicquic.svg?branch=master"
+  href = "https://travis-ci.org/jmVillaveces/biojs-rest-psicquic"
 
 [biojs-vis-msa]
 
