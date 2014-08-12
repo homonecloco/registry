@@ -78,3 +78,12 @@ tags = ["models", "data", "objects"]
 [biojs-vis-sequence]
 
 tags = ["client", "sequence"]
+
+[biojs-vis_easy_features]
+
+tags = ["client", "features"]
+
+  [[biojs-vis_easy_features]]
+  type = "build"
+  img  = "https://drone.io/github.com/greenify/biojs-vis_easy_features/status.png"
+  href = "https://drone.io/github.com/greenify/biojs-vis_easy_features/latest"
