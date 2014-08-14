@@ -90,8 +90,8 @@ tags = ["client", "features"]
 
 [biojs-rest-jsdas]
 
-tags: ["bio, das, annotations"]
+tags = ["bio, das, annotations"]
 
 [biojs-vis-chromosome]
 
-tags: ["div","chromosome","bands"]
+tags = ["div","chromosome","bands"]
