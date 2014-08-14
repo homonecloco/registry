@@ -87,3 +87,11 @@ tags = ["client", "features"]
   type = "build"
   img  = "https://drone.io/github.com/greenify/biojs-vis-easy_features/status.png"
   href = "https://drone.io/github.com/greenify/biojs-vis-easy_features/latest"
+
+[biojs-rest-jsdas]
+
+tags: ["bio, das, annotations"]
+
+[biojs-vis-chromosome]
+
+tags: ["div","chromosome","bands"]
