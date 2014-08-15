@@ -14,8 +14,8 @@ tags = ["client", "sequence", "recommended"]
   
   [[biojs-io-clustal.shields]]
   type = "build"
-  img  = "https://drone.io/github.com/biojs/biojs-io-clustal/status.png"
-  href = "https://drone.io/github.com/biojs/biojs-io-clustal/latest"
+  img  = "https://drone.io/github.com/greenify/biojs-io-clustal/status.png"
+  href = "https://drone.io/github.com/greenify/biojs-io-clustal/latest"
 
 [biojs-io-fasta]
 
@@ -23,8 +23,8 @@ tags = ["client", "sequence", "fasta", "recommended"]
 
   [[biojs-io-fasta.shields]]
   type = "build"
-  img  = "https://drone.io/github.com/biojs/biojs-io-fasta/status.png"
-  href = "https://drone.io/github.com/biojs/biojs-io-fasta/latest"
+  img  = "https://drone.io/github.com/greenify/biojs-io-fasta/status.png"
+  href = "https://drone.io/github.com/greenify/biojs-io-fasta/latest"
   
   [[biojs-io-fasta.shields]]
   type = "tests"
