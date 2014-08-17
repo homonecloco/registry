@@ -38,6 +38,10 @@ tags = ["client","newick","io","parser"]
 [biojs-rest-ensembl]
 
 tags = ["ensembl","rest"]
+
+[biojs-vis-tooltip]
+
+tags = ["tooltip","plugin"]
   
 [biojs-rest-psicquic]
 
