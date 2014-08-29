@@ -99,3 +99,12 @@ tags = ["bio", "das", "annotations"]
 [biojs-vis-chromosome]
 
 tags = ["div","chromosome","bands"]
+
+[biojs-io-graduates]
+
+tags = ["tutorial", "graduates", "parser"]
+
+  [[biojs-io-graduates.shields]]
+  type = "build"
+  img  = "https://travis-ci.org/biojs/biojs-io-graduates.svg?branch=master"
+  href = "https://travis-ci.org/biojs/biojs-io-graduates"
