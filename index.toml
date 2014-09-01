@@ -108,3 +108,13 @@ tags = ["tutorial", "graduates", "parser"]
   type = "build"
   img  = "https://travis-ci.org/biojs/biojs-io-graduates.svg?branch=master"
   href = "https://travis-ci.org/biojs/biojs-io-graduates"
+  
+[biojs-io-snipspector]
+
+tags = ["tutorial", "snippets", "parser"]
+
+  [[biojs-io-snipspector.shields]]
+  type = "build"
+  img  = "https://travis-ci.org/biojs/biojs-io-snipspector.svg?branch=master"
+  href = "https://travis-ci.org/biojs/biojs-io-snipspector"
+
