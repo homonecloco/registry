@@ -118,3 +118,6 @@ tags = ["tutorial", "snippets", "parser"]
   img  = "https://travis-ci.org/biojs/biojs-io-snipspector.svg?branch=master"
   href = "https://travis-ci.org/biojs/biojs-io-snipspector"
 
+[biojs-vis-pdbviewer]
+
+tags = ["pdb", "protein", "structure"]
