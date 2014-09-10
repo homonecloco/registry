@@ -56,6 +56,20 @@ tags = ["client", "psicquic", "protein interaction"]
   type = "tests"
   img = "https://travis-ci.org/jmVillaveces/biojs-rest-psicquic.svg?branch=master"
   href = "https://travis-ci.org/jmVillaveces/biojs-rest-psicquic"
+  
+[biojs-io-mitab]
+
+  tags = ["parser", "mitab", "protein interaction"]
+
+  [[biojs-rest-psicquic.shields]]
+  type = "build"
+  img  = "https://travis-ci.org/jmVillaveces/biojs-io-mitab.svg?branch=master"
+  href = "https://travis-ci.org/jmVillaveces/biojs-io-mitab"
+  
+  [[biojs-rest-psicquic.shields]]
+  type = "tests"
+  img = "https://travis-ci.org/jmVillaveces/biojs-io-mitab.svg?branch=master"
+  href = "https://travis-ci.org/jmVillaveces/biojs-io-mitab"
 
 [biojs-vis-msa]
 
