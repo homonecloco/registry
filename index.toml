@@ -109,6 +109,15 @@ tags = ["client", "features"]
 [biojs-rest-jsdas]
 
 tags = ["bio", "das", "annotations"]
+  [[biojs-rest-jsdas.shields]]
+  type = "build"
+  img  = "https://travis-ci.org/4ndr01d3/biojs-rest-jsdas.svg?branch=master"
+  href = "https://travis-ci.org/4ndr01d3/biojs-rest-jsdas"
+  
+  [[biojs-rest-jsdas.shields]]
+  type = "tests"
+  img  = "https://travis-ci.org/4ndr01d3/biojs-rest-jsdas.svg?branch=master"
+  href = "https://travis-ci.org/4ndr01d3/biojs-rest-jsdas"
 
 [biojs-vis-chromosome]
 
