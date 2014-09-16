@@ -149,3 +149,12 @@ tags = ["pdb", "protein", "structure"]
 [biojs-vis-colorschemes]
 
 tags = ["color", "schemes", "msa"]
+
+[biojs-io-gff]
+
+tags = ["parser", "gff", "feature"]
+
+  [[biojs-io-gff.shields]]
+  type = "build"
+  img  = "https://travis-ci.org/greenify/biojs-io-gff.svg?branch=master"
+  href = "https://travis-ci.org/greenify/biojs-io-gff"
