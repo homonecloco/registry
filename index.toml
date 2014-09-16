@@ -152,9 +152,18 @@ tags = ["color", "schemes", "msa"]
 
 [biojs-io-gff]
 
-tags = ["parser", "gff", "feature"]
+tags = ["parser", "gff", "features"]
 
   [[biojs-io-gff.shields]]
   type = "build"
   img  = "https://travis-ci.org/greenify/biojs-io-gff.svg?branch=master"
   href = "https://travis-ci.org/greenify/biojs-io-gff"
+
+[biojs-io-annots]
+
+tags = ["parser", "features", "annotations"]
+
+  [[biojs-io-annots.shields]]
+  type = "build"
+  img  = "https://travis-ci.org/greenify/biojs-io-annots.svg?branch=master"
+  href = "https://travis-ci.org/greenify/biojs-io-annots"
