@@ -167,3 +167,11 @@ tags = ["parser", "features", "annotations"]
   type = "build"
   img  = "https://travis-ci.org/greenify/biojs-io-annots.svg?branch=master"
   href = "https://travis-ci.org/greenify/biojs-io-annots"
+
+[biojs-vis-circularnet]
+
+tags = ["vis", "d3", "graph"]
+
+[biojs-vis-feature]
+
+tags = ["vis", "features", "protein"]
