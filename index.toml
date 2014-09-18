@@ -175,3 +175,7 @@ tags = ["vis", "d3", "graph"]
 [biojs-vis-feature]
 
 tags = ["vis", "features", "protein"]
+
+
+[biojs-io-sam]
+tags = ["parser"," io"," sam"]
